@@ -88,7 +88,4 @@ AstroCloud simplifies application deployment and infrastructure management by su
 - [**Project Management**](./project-management.md)
 - [**Project Architecture**](./project-architecture.md)
 
-## Contributors
-
-- [Ahmed Atwa](https://github.com/nightknighto)
 
