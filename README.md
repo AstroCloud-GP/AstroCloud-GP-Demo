@@ -19,11 +19,15 @@ A comprehensive demonstration of the project, in which we deploy a full-stack re
 
 [![Main-demo](https://img.youtube.com/vi/aHG26cFSSnQ/0.jpg)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
 
+[![AstroCloud Main Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaHG26cFSSnQ)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
+
 **Extra Features Demo**
 
 Showcasing additional features such as CI/CD, instant rollbacks, and more.
 
 [![extra-features-demo](https://img.youtube.com/vi/0wn3IJjWljs/0.jpg)](https://www.youtube.com/watch?v=0wn3IJjWljs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wn3IJjWljs?si=0Bmxb53KNH8umihR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Landing and Documentation Page Demo**
 
