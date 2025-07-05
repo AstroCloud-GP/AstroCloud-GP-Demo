@@ -6,7 +6,7 @@ Project Manager: [Ahmed Atwa](https://github.com/nightknighto)
 
 A quick demonstration of our project management approach, showcasing how we utilized GitHub Issues and Projects to manage tasks, track progress, and ensure quality through pull requests.
 
-[![Demo](https://img.youtube.com/vi/xzND5inEvgc/0.jpg)](https://www.youtube.com/watch?v=xzND5inEvgc)
+[![AstroCloud Project Management Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxzND5inEvgc)](https://www.youtube.com/watch?v=xzND5inEvgc)
 
 ## Overview
 Our project management approach was centered around **GitHub Issues** and **GitHub Projects**, ensuring structured backlog management, prioritization, and task tracking.

@@ -13,11 +13,11 @@ AstroCloud simplifies application deployment and infrastructure management by su
 
 ## Demos
 
+<!-- LINK TO GENERATE THUMBNAILS FROM VIDEOS: https://markdown-videos.jorgenkh.no/ -->
+
 **Main Demo**
 
 A comprehensive demonstration of the project, in which we deploy a full-stack registration system consisting of a backend and 2 frontends.
-
-[![Main-demo](https://img.youtube.com/vi/aHG26cFSSnQ/0.jpg)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
 
 [![AstroCloud Main Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaHG26cFSSnQ)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
 
@@ -25,21 +25,19 @@ A comprehensive demonstration of the project, in which we deploy a full-stack re
 
 Showcasing additional features such as CI/CD, instant rollbacks, and more.
 
-[![extra-features-demo](https://img.youtube.com/vi/0wn3IJjWljs/0.jpg)](https://www.youtube.com/watch?v=0wn3IJjWljs)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0wn3IJjWljs?si=0Bmxb53KNH8umihR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![AstroCloud Extra Features Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0wn3IJjWljs)](https://www.youtube.com/watch?v=0wn3IJjWljs)
 
 **Landing and Documentation Page Demo**
 
 A demonstration of the landing and documentation page, which serves as the first point of contact for users, providing an overview of the platform, its features, and user documentation.
 
-[![landing-page-demo](https://img.youtube.com/vi/KC1RmH3aVEc/0.jpg)](https://www.youtube.com/watch?v=KC1RmH3aVEc)
+[![AstroCloud Landing Page Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKC1RmH3aVEc)](https://www.youtube.com/watch?v=KC1RmH3aVEc)
 
 **Admin Dashboard Demo**
 
 A demonstration of the admin dashboard, which provides administrative functionality such as user and project management, user plans, and system statistics, and more.
 
-[![admin-dashboard-demo](https://img.youtube.com/vi/rklRAFE2zVg/0.jpg)](https://www.youtube.com/watch?v=rklRAFE2zVg)
+[![AstroCloud Admin Dashboard Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrklRAFE2zVg)](https://www.youtube.com/watch?v=rklRAFE2zVg)
 
 ## Features
 
