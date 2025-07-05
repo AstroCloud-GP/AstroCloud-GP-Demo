@@ -37,35 +37,6 @@ A demonstration of the admin dashboard, which provides administrative functional
 
 [![admin-dashboard-demo](https://img.youtube.com/vi/rklRAFE2zVg/0.jpg)](https://www.youtube.com/watch?v=rklRAFE2zVg)
 
-## Architecture
-
-![architecture](assets/image.png)
-
-### Main Components
-
-- **User Dashboard**: The primary interface that users interact with. It allows users to manage their projects, monitor deployments, and configure settings.
-- **Admin Dashboard**: Provides administrative functionality, including the ability to view all users, projects, and plans, along with access to advanced controls and system statistics.
-- **Landing and Documentation Page**: The initial page presented to first-time visitors. It introduces the platform, showcases its capabilities, highlights available features, and contains user documentation and examples.
-- **Backend**: The backend is responsible for processing user actions and requests. It acts as the intermediary between the frontend and the platform, handling business logic, API endpoints, and coordination between services.
-- **Platform**: The platform handles all hosting and deployment operations, including building, deploying, and managing both static and dynamic projects.
-
-### Supporting Components
-
-- **Postgres**: The main relational database used to store application data.
-- **Redis**: Used as a message queue for deployment requests.
-- **Kafka**: Used for event streaming and real-time data processing, such as log streaming.
-- **Nginx**: Acts as a reverse proxy for the backend, and a router that forwards project deployment links to the appropriate services.
-- **Azure Blob Storage**: Stores files for all statically hosted websites.
-- **GitHub**: Integrated for version control and CI/CD workflows.
-- **Azure Kubernetes Service (AKS)**: Hosts the main Kubernetes cluster used for deploying and managing dynamic applications.
-- **Azure Container Registry (ACR)**: Stores container images for dynamic projects.
-
-### Interactions between Components
-
-- **Frontend ↔ Backend**: Communicate via **RESTful APIs** and **WebSocket** connections.
-- **Backend ↔ Platform**: Use **BullMQ (message queue)** and **Kafka (publish/subscribe)** for asynchronous, decoupled communication. This architecture enables independent development, testing, deployment, and scaling of each component.
-
-
 ## Features
 
 ### General Deployment Features:
