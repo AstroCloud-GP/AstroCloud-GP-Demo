@@ -4,7 +4,9 @@ Project Manager: [Ahmed Atwa](https://github.com/nightknighto)
 
 ## Demo
 
-... video here
+A quick demonstration of our project management approach, showcasing how we utilized GitHub Issues and Projects to manage tasks, track progress, and ensure quality through pull requests.
+
+[![Demo](https://img.youtube.com/vi/xzND5inEvgc/0.jpg)](https://www.youtube.com/watch?v=xzND5inEvgc)
 
 ## Overview
 Our project management approach was centered around **GitHub Issues** and **GitHub Projects**, ensuring structured backlog management, prioritization, and task tracking.

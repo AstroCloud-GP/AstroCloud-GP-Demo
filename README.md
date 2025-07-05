@@ -4,20 +4,38 @@ The purpose of this documentation is to provide insight into the AstroCloud GP p
 
 ## Overview
 
-Welcome to Egypt’s First Managed Cloud Hosting Platform
+Welcome to Egypt’s First Managed Cloud Hosting Platform!
 
 AstroCloud is a Platform-as-a-Service (PaaS) developed as a graduation project aimed at empowering developers, startups, and businesses in Egypt with a fully managed cloud hosting solution.
 
-AstroCloud simplifies application deployment and infrastructure management by supporting static and dynamic site hosting through GitHub integration or manual uploads. It features an intuitive dashboard for managing deployments, along with continuous deployment, automated builds, and real-time log streaming.
+AstroCloud simplifies application deployment and infrastructure management by supporting static and dynamic site hosting through GitHub integration or ZIP file uploads. It features an intuitive dashboard for managing deployments, along with continuous deployment, automated builds, and real-time log streaming.
 
 
 ## Demos
 
-1- Full Demo
+**Main Demo**
 
-2- Landing and Documentation Page Demo
+A comprehensive demonstration of the project, in which we deploy a full-stack registration system consisting of a backend and 2 frontends.
 
-3- Admin Dashboard Demo
+[![Main-demo](https://img.youtube.com/vi/aHG26cFSSnQ/0.jpg)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
+
+**Extra Features Demo**
+
+Showcasing additional features such as CI/CD, instant rollbacks, and more.
+
+[![extra-features-demo](https://img.youtube.com/vi/0wn3IJjWljs/0.jpg)](https://www.youtube.com/watch?v=0wn3IJjWljs)
+
+**Landing and Documentation Page Demo**
+
+A demonstration of the landing and documentation page, which serves as the first point of contact for users, providing an overview of the platform, its features, and user documentation.
+
+[![landing-page-demo](https://img.youtube.com/vi/KC1RmH3aVEc/0.jpg)](https://www.youtube.com/watch?v=KC1RmH3aVEc)
+
+**Admin Dashboard Demo**
+
+A demonstration of the admin dashboard, which provides administrative functionality such as user and project management, user plans, and system statistics, and more.
+
+[![admin-dashboard-demo](https://img.youtube.com/vi/rklRAFE2zVg/0.jpg)](https://www.youtube.com/watch?v=rklRAFE2zVg)
 
 ## Architecture
 
@@ -76,16 +94,16 @@ AstroCloud simplifies application deployment and infrastructure management by su
 - Login with GitHub and refresh tokens for secure access.
 - Monorepository setup for sharing code between the backend and the various frontends.
 - User Plans authorization system for managing user access and features.
-- Real-time notifications for deployment status and errors.
-- Custom domain support with DNS management.
 
 ### Automation and DevOps:
 - Automated production deployment pipeline for our system, to deploy the whole system with a single click.
 - CI and quality assurance checks for all pull requests.
 
-## Sections
+## Detailed Documentation
 
-- [**Project Management**](./project-management.md)
+For a deeper dive into the project, please refer to the following documents:
+
 - [**Project Architecture**](./project-architecture.md)
+- [**Project Management**](./project-management.md)
 
 
