@@ -15,25 +15,25 @@ AstroCloud simplifies application deployment and infrastructure management by su
 
 <!-- LINK TO GENERATE THUMBNAILS FROM VIDEOS: https://markdown-videos.jorgenkh.no/ -->
 
-**Main Demo**
+### Main Demo
 
 A comprehensive demonstration of the project, in which we deploy a full-stack registration system consisting of a backend and 2 frontends.
 
 [![AstroCloud Main Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaHG26cFSSnQ)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
 
-**Extra Features Demo**
+### Extra Features Demo
 
 Showcasing additional features such as CI/CD, instant rollbacks, and more.
 
 [![AstroCloud Extra Features Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0wn3IJjWljs)](https://www.youtube.com/watch?v=0wn3IJjWljs)
 
-**Landing and Documentation Page Demo**
+### Landing and Documentation Page Demo
 
 A demonstration of the landing and documentation page, which serves as the first point of contact for users, providing an overview of the platform, its features, and user documentation.
 
 [![AstroCloud Landing Page Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKC1RmH3aVEc)](https://www.youtube.com/watch?v=KC1RmH3aVEc)
 
-**Admin Dashboard Demo**
+### Admin Dashboard Demo
 
 A demonstration of the admin dashboard, which provides administrative functionality such as user and project management, user plans, and system statistics, and more.
 
