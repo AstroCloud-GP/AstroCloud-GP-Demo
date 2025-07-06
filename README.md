@@ -4,6 +4,10 @@ The purpose of this documentation is to provide insight into the AstroCloud GP p
 
 ## Overview
 
+<center>
+    <img src="./assets/astrocloud.png" alt="AstroCloud Logo" height="400"  >
+</center>
+
 Welcome to Egypt’s First Managed Cloud Hosting Platform!
 
 AstroCloud is a Platform-as-a-Service (PaaS) developed as a graduation project aimed at empowering developers, startups, and businesses in Egypt with a fully managed cloud hosting solution.
@@ -64,11 +68,12 @@ A demonstration of the admin dashboard, which provides administrative functional
 - Runtime Logs accessible through the dashboard for debugging and monitoring.
 
 ### Side Features:
-- Login with GitHub and refresh tokens for secure access.
+- Login with GitHub and refresh tokens authentication for secure access.
 - Monorepository setup for sharing code between the backend and the various frontends.
 - User Plans authorization system for managing user access and features.
 
 ### Automation and DevOps:
+- Fully containerized architecture using Docker.
 - Automated production deployment pipeline for our system, to deploy the whole system with a single click.
 - CI and quality assurance checks for all pull requests.
 
