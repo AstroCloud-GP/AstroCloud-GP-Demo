@@ -37,6 +37,17 @@ The project is organized as a **monorepo**, containing multiple related services
 - Real-time communication via WebSockets
 - Integrates with PostgreSQL, Redis, Kafka, GitHub App, and Azure
 - Handles authentication and background job queues
+- Technologies:
+  - Node.js
+  - Express.js
+  - TypeScript
+  - Prisma and PostgreSQL (for database interactions)
+  - Redis and BullMQ (for caching and message queuing)
+  - Socket.IO (for websocket communication)
+  - Octokit (for GitHub App integration)
+  - Kafka (for event streaming)
+  - Azure SDK (for cloud interactions)
+  - Zod (for request validation)
 
 ### ⚙️ Platform
 
