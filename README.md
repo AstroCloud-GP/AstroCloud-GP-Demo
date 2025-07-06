@@ -84,4 +84,9 @@ For a deeper dive into the project, please refer to the following documents:
 - [**Project Architecture**](./project-architecture.md)
 - [**Project Management**](./project-management.md)
 
+## Other Files
+
+- [**GP Thesis PDF**](./files/AstroCloud%20GP%20Thesis.pdf)
+- [**GP Presentation PDF**](./files/AstroCloud%20GP%20Presentation.pdf)
+
 

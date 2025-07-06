@@ -1,6 +1,6 @@
 # Architecture
 
-![architecture](assets/image.png)
+![architecture](assets/architecture.png)
 
 ## Main Components (Sub-Projects)
 
