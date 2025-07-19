@@ -22,8 +22,21 @@ AstroCloud simplifies application deployment and infrastructure management by su
 ### Main Demo
 
 A comprehensive demonstration of the project, in which we deploy a full-stack registration system consisting of a backend and 2 frontends.
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+
+**Arabic**
 
 [![AstroCloud Main Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaHG26cFSSnQ)](https://www.youtube.com/watch?v=aHG26cFSSnQ)
+</div>
+<div style="flex: 1;">
+
+**English**
+
+[![AstroCloud Main Demo English](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpHTiw2Roz0s%26feature%3Dyoutu.be)](https://www.youtube.com/watch?v=pHTiw2Roz0s&feature=youtu.be)
+
+</div>
+</div>
 
 ### Extra Features Demo
 
